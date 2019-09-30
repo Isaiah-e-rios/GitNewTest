@@ -26,3 +26,13 @@ notable git commands:(Some Please add as learned)
     git push //uploads commited files to github
 
 
+Order of operations:
+
+    add    // stage new files to be committed
+
+    commit  // commits changes also adds small note / comment on what was done
+    
+    pull   // pull to ensure that there are no conflicts with current version on git
+           // if conflicts occur fix and start process over (add, commit, and pull) 
+    
+    push    // once all conflicts resolved push your code to master branch.
