@@ -6,6 +6,8 @@ install Vs code:
 install git:
     https://git-scm.com/
 
+i made a collision here.
+
 once both installed copy:
     git@github.com:Isaiah-e-rios/GitNewTest.git
 
