@@ -32,7 +32,7 @@ notable git commands:(Some Please add as learned)
 
 Order of operations:
 
-    add    // stage new files to be committed
+    add    // stage files to be committed
 
     commit  // commits changes also adds small note / comment on what was done
     
