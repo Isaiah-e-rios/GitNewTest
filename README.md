@@ -40,3 +40,6 @@ Order of operations:
            // if conflicts occur fix and start process over (add, commit, and pull) 
     
     push    // once all conflicts resolved push your code to master branch.
+    
+    oops another collision
+    
