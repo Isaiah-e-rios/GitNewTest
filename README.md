@@ -20,8 +20,9 @@ Git setup:
     when adding new content please do git order of operationsss
 
 notable git commands:(Some Please add as learned)
-    git add <file name>, <another file name> //add one or multiple files
-    git add .  // stages all files for commit
+
+    git add  <file name>, <another file name> //add one or multiple files
+    git add .   // stages all files for commit
     
     git commit -m "message to commit" // always write a short but useful commit message
 
