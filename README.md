@@ -23,7 +23,8 @@ notable git commands:(Some Please add as learned)
 
     git add  <file name>, <another file name> //add one or multiple files
     git add .   // stages all files for commit
-    
+    git rm <file name> //removes the file from repository
+
     git commit -m "message to commit" // always write a short but useful commit message
 
     git pull //pulls newest uploaded version
@@ -41,3 +42,4 @@ Order of operations:
            // if conflicts occur fix and start process over (add, commit, and pull) 
     
     push    // once all conflicts resolved push your code to master branch.
+
